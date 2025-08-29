@@ -35,7 +35,7 @@ if prompt := st.chat_input("Ask about medical topics..."):
     st.session_state.messages.append({"role": "assistant", "content": response['message']['content']})
 
 # %%
-jupyter nbconvert --to script app.ipynb
+#jupyter nbconvert --to script app.ipynb
 
 # %%
 

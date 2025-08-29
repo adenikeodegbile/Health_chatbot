@@ -1,5 +1,5 @@
 # %%
-!pip install streamlit ollama
+#pip install streamlit ollama
 
 # %%
 import streamlit as st

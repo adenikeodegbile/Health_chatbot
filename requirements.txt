@@ -1,0 +1,5 @@
+streamlit
+ollama
+# Add any other libraries you use, e.g.,
+# langchain
+# numpy
